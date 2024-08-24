@@ -1,5 +1,7 @@
 # Homelab 2024
 
+> Warning!! This is a WIP area and might give you incomplete or incorrect info
+
 ## Dedicated 
 1. VPN
 2. PiKVM
